@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="valor1">Valor1</string>
+    <string name="operacao_incorreta">Operação inválida</string>
+    <string name="valor2">Valor2</string>
+    <string name="operacao">Operação</string>
+    <string name="calcular">Calcular</string>
+</resources>
